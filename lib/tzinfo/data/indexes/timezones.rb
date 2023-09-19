@@ -500,6 +500,7 @@ module TZInfo
         linked_timezone 'Europe/Zaporozhye'
         timezone 'Europe/Zurich'
         timezone 'Factory'
+        timezone 'Amagi'
         linked_timezone 'GB'
         linked_timezone 'GB-Eire'
         linked_timezone 'GMT'
